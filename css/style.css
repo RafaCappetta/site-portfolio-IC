@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(54, 47, 47);
+    color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#picrew {
+    width: 200px;
+    height: 200px;
+}
+
+.secoes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.secoes a{
+    color: black;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.secoes a:hover {
+  background-color: black;
+  color: white;
+}
+
+#sobre-dest {
+    margin-left: 45px;
+}
+
+#contact a {
+    color: lightblue
+}
