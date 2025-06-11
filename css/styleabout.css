@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(54, 47, 47);
+    color: gainsboro;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.bloco-present {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.bloco-present p{
+    font-size: x-large;
+    margin-left: 20px;
+}
+
+#eu {
+    width: 250px;
+    height: 250px;
+}

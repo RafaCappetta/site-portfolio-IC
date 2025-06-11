@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(54, 47, 47);
+    color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+.projs1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.projs1 p {
+    font-size:x-large;
+    margin-left: 20px;
+}
+#tiara {
+    width: 225px;
+    height: 400px;
+}
+
+.no-code {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+
+.no-code p {
+    font-size:x-large;
+    margin-right: 20px;
+}
+
+#cenario {
+    width: 384px;
+    height: 384px;
+}
+
+.no-code a {
+    color: lightblue
+}
