@@ -13,5 +13,3 @@ Possui um menu inicial com 3 seções abordando diferentes aspectos de minha vid
 **1- About me:** Apresenta informações gerais sobre quem eu sou, meus gostos pessoais, minha formação acadêmica e meus interesses profissionais.
 
 **2- My Projects:** Aborda os projetos que participei durante minha jornada.
-
-**3- My inspirations:** Aborda mídias e pessoas que são fonte de inspiração para mim.
