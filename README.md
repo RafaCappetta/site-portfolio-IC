@@ -13,3 +13,9 @@ Possui um menu inicial com 3 seções abordando diferentes aspectos de minha vid
 **1- About me:** Apresenta informações gerais sobre quem eu sou, meus gostos pessoais, minha formação acadêmica e meus interesses profissionais.
 
 **2- My Projects:** Aborda os projetos que participei durante minha jornada.
+
+---
+
+## Funcionalidade JavaScript
+
+Toda vez que o usuário entrar no menu do portfólio, será solicitado que ele insira o seu nome. Após fazer isso e apertar "OK" o nome que ele colocou será exibido na mensagem de boas vindas do menu. Caso ele aperte em "Cancelar" ou não insira nada, "visitor" será exibido no lugar onde seu nome deveria estar.
