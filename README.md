@@ -4,7 +4,7 @@
 
 Um site de portfólio feito com HTML, CSS e JavaScript com informações sobre mim.
 
-Possui um menu inicial com 3 seções abordando diferentes aspectos de minha vida e uma área com meios de entrar em contato comigo.
+Possui um menu inicial com 2 seções abordando diferentes aspectos de minha vida e uma área com meios de entrar em contato comigo.
 
 ---
 
